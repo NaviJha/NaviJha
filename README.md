@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm vaishnavi Jha</h1>
-<h3 align="center">I am passionate learner </h3>
+<h3 align="center">I am passionate learner, challenge taker and Tech Enthusiast </h3>
 
 <table>
   <tr>
     <td>
       <ul>
          <li>👩‍🎓 About me: <strong>I am pursuing Integrated Mtech In electronics and Computer science and engineering (Computational and Data Science)</strong></li>
-        <li>🌱 I’m currently learning: <strong>Machine learning, DSA, Using AI Tools.</strong></li>
+        <li>🌱 I’m currently learning: <strong>Machine learning, DSA, AI Tools, Full Stack development.</strong></li>
         <li>💬 Ask me about: <strong>Machine learning ,PowerBI , Figma </strong></li>
         <li>📫 How to reach me: <strong>navijha768@gmail.com</strong></li>
       </ul>
