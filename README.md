@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-jha-3237432a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-jha-3237432a4" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-jha-3237432a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-jha-3237432a4" height="30" width="40" /></a>
   <a href="https://instagram.com/jha.3.8.5_navi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jha.3.8.5_navi" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/vaishnavi__jha123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavi__jha123" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/vaishnavijha25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishnavijha25" height="30" width="40" /></a>
