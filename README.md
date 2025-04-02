@@ -7,7 +7,7 @@
   <tr>
     <td>
       <ul>
-         <li>👩‍🎓 About me: <strong>I am pursuing Integrated Mtech In electronics and Computer science and engineering (Computational and Data Science)</strong></li>
+         <li>👩‍🎓 About me: <strong>I am pursuing Integrated Mtech In Computer science and engineering (Computational and Data Science)</strong></li>
         <li>🌱 I’m currently learning: <strong>Machine learning, DSA, AI Tools, Full Stack development.</strong></li>
         <li>💬 Ask me about: <strong>Machine learning ,PowerBI , Figma </strong></li>
         <li>📫 How to reach me: <strong>navijha768@gmail.com</strong></li>
